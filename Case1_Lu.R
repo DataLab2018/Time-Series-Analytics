@@ -1,7 +1,7 @@
 install.packages("forecast")
 library(forecast)
 library(zoo)
-setwd("C:/Users/ludai/Desktop/BAN673/case#1")
+setwd("C:/Users/Desktop/BAN673/case#1")
 Grocery<- read.csv("673_case1_1.csv")
 head(Grocery)
 tail(Grocery)
