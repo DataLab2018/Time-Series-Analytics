@@ -8,7 +8,7 @@ library(zoo)
 ## CREATE DATA FRAME. 
 
 # Set working directory for locating files.
-setwd("C:/Users/ludai/Desktop/BAN673/Project")
+setwd("C:/Users/Desktop/BAN673/Project")
 
 # Create data frame.
 Candy.data <- read.csv("USAcandy.csv")
